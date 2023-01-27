@@ -38,7 +38,7 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 * Inference of Mask R-CNN (In progress)
 
 
-## Physical simulation
+## Physical simulation [Link](https://github.com/yangfei4/BlenderProc2_Cobot)
 * Experiment collecting 1000 samples
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/physics_positioning.gif" width="600">
