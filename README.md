@@ -1,4 +1,4 @@
-# Sim2real
+# Instance Segmentation and Pose Estimation
 This repo presents the work that I've done in Cobot project, funded by Foxconn Interconnect Technology. Due to the confidentiality, I'm unable to provide source code but show some current progress.
 
 ## Introduction to Cobot
