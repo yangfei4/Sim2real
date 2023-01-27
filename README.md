@@ -1,7 +1,7 @@
 # Sim2real
 This repo presents the work that I've done in Cobot project, funded by Foxconn Interconnect Technology. Due to the confidentiality, I'm unable to provide source code but show some current progress.
 
-## Introduction
+## Introduction to Cobot
 The goal of this project is to develop capabilities for autonomous, collaborative robots performing tasks in a manufacturing environment. I'm responsible for developing object detection and pose estimation pipeline for small, relective, symmetric USB type-c components. My main contributions are focusing on:
 * Improved the performance of self-developed real data labeling tool
 * (Ongoing) Generated synthetic datasets to train Mask R-CNN, compared with training with real datasets
@@ -27,8 +27,12 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/vis_logic.jpg" width="600">
 </p>
+
 ## Synthetic datasets and Mask R-CNN
 
+
 ## Physical simulation
+
+
 
 ## Pose estimation
