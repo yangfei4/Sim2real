@@ -46,7 +46,7 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 
 * Experiment result
 <p align="center">
-  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/physics_positioning.gif" width="600">
+  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/pose_result.jpg" width="800">
 </p>
 
 ## Pose estimation
