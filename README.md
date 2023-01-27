@@ -35,7 +35,7 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/sythetic_data.jpg" width="400">
 </p>
 
-* Inference of Mask R-CNN (TBD)
+* Inference of Mask R-CNN (In progress)
 
 
 ## Physical simulation
@@ -50,4 +50,4 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 </p>
 
 ## Pose estimation
-* TBD
+* In progress
