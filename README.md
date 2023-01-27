@@ -35,12 +35,19 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/sythetic_data.jpg" width="400">
 </p>
 
-* Inference of Mask R-CNN
+* Inference of Mask R-CNN (TBD)
 
 
 ## Physical simulation
 * Experiment collecting 1000 samples
-* Experiment result
+<p align="center">
+  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/physics_positioning.gif" width="600">
+</p>
 
+* Experiment result
+<p align="center">
+  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/physics_positioning.gif" width="600">
+</p>
 
 ## Pose estimation
+* TBD
