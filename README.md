@@ -12,7 +12,7 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 * Intergrated interactive interface(sliding widgets etc.)
 * Improve refresh rate from 3fps to 25fps by optimizing the rendering logic
 * Build lable visulization tool
-![Labeling tool interface](https://github.com/yangfei4/Sim2real/blob/main/figures/labeling_GUI.jpg =250x250)
+<img src="https://github.com/yangfei4/Sim2real/blob/main/figures/labeling_GUI.jpg" width="200" height="200">
 
 ## Synthetic datasets and Mask R-CNN
 
