@@ -11,6 +11,7 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 ## Labeling GUI improvements
 * Intergrated interactive interface(sliding widgets etc.)
 * Improve refresh rate from 3fps to 25fps by optimizing the rendering logic
+* Build lable visulization tool
 
 ## Synthetic datasets and Mask R-CNN
 
