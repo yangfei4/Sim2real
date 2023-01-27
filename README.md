@@ -29,10 +29,18 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 </p>
 
 ## Synthetic datasets and Mask R-CNN
+* Sythetic data examples
+
+<p align="center">
+  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/sythetic_data.jpg" width="400">
+</p>
+
+* Inference of Mask R-CNN
 
 
 ## Physical simulation
-
+* Experiment collecting 1000 samples
+* Experiment result
 
 
 ## Pose estimation
