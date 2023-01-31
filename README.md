@@ -29,12 +29,15 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 </p>
 
 ## Synthetic datasets and Mask R-CNN
-* Sythetic data examples
+* Synthetic data examples
 
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/sythetic_data.jpg" width="400">
 </p>
-
+* Augmented dataset
+<p align="center">
+  <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/synthetic.jpg" width="800">
+</p>
 * Inference of Mask R-CNN (In progress)
 
 
