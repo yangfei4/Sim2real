@@ -34,10 +34,12 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/sythetic_data.jpg" width="400">
 </p>
-* Augmented dataset
+
+* Augmented synthetic dataset(onging)
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/synthetic.jpg" width="800">
 </p>
+
 * Inference of Mask R-CNN (In progress)
 
 
