@@ -55,4 +55,4 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 </p>
 
 ## Pose estimation
-* In progress
+[see](https://github.com/yangfei4/clean-pvnet)
