@@ -58,5 +58,4 @@ The goal of this project is to develop capabilities for autonomous, collaborativ
 <p align="center">
   <img src="https://github.com/yangfei4/Sim2real/blob/main/figures/pvnet_pipeline.jpg?raw=true" width="800">
 </p>
-
-See [this repo](https://github.com/yangfei4/clean-pvnet).
+* See [this repo](https://github.com/yangfei4/clean-pvnet).
